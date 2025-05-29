@@ -106,10 +106,10 @@ Cada opção executa uma função independente com entrada de dados e resultado 
 
 ## 👨‍💻 Desenvolvedores
 
-**Danilo Vaz**  
-**Letícia Marques** 
-**Lilian** 
-**Marina Zentil** 
-**Thiago Gerszewski** 
+- **Danilo Vaz**  
+- **Letícia Marques** 
+- **Lilian Beatriz** 
+- **Marina Zentil** 
+- **Thiago Gerszewski** 
 
 Aluno do curso de **Análise e Desenvolvimento de Sistemas - UniCesumar**
